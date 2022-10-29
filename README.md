@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...**STZ**
 - 🌱 I’m currently learning ...**Python** | **Java** | **C#** 
-- 📫 How to reach me: ...e using [Linkedin](https://www.linkedin.com/in/mateus-oliveira-fullstack/)
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/mateus-oliveira-fullstack/)
